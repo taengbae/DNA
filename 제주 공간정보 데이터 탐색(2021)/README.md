@@ -25,3 +25,5 @@
 ### 4. 회고
   - 외부데이터를 활용하지 못한 것에 대한 아쉬움
   - 특별한 인사이트 발굴 없음
+
+[notion](https://www.notion.so/DACON-d498f2b2d68049a584e460d9f2ae9f9f?pvs=4)
